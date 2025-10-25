@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Databases
+*.db
+datausa.db
+
+# System files
+.DS_Store
+
+# Virtual envs
+venv
