@@ -1,0 +1,9 @@
+{
+  "data": [
+    {"Nation": "United States", "Year": "2021", "Population": 331449281, "Median Household Income": 70584},
+    {"Nation": "United States", "Year": "2020", "Population": 329484123, "Median Household Income": 67621},
+    {"Nation": "United States", "Year": "2019", "Population": 328239523, "Median Household Income": 65602},
+    {"Nation": "United States", "Year": "2018", "Population": 327096265, "Median Household Income": 63079},
+    {"Nation": "United States", "Year": "2017", "Population": 325147121, "Median Household Income": 61172}
+  ]
+}
